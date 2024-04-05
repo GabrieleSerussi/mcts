@@ -1,0 +1,1 @@
+Tutorial on Monte Carlo Control, Monte Carlo Tree Search and Rapid Action Value Estimation (variant of Monte Carlo Tree Search) applied to the Taxi domain with interactive visual demos and a table that shows the metrics of each algorithm at every step.
